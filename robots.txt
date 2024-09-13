@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ansibac.github.io/sitemap.html.gz
+Sitemap: https://ansibac.github.io/app/sitemap.html.gz
+Sitemap: https://ansibac.github.io/assets/sitemap.html.gz
+Sitemap: https://ansibac.github.io/css/sitemap.html.gz
+Sitemap: https://ansibac.github.io/includes/sitemap.html.gz
+Sitemap: https://ansibac.github.io/item/sitemap.html.gz
+Sitemap: https://ansibac.github.io/src/sitemap.html.gz
